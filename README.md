@@ -16,7 +16,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4lterjr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=w4lterjr&theme=gotham&hide_border=true&area=true)
+
+
+<img src="https://github.com/w4lterjr/w4lterjr/blob/main/img/mario.gif"/>
+
 
 <h3 align="center">Tools, Languages and Contact:</h3>
 
@@ -35,9 +38,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="UnReal" height="30" width="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg">
 
-</div><br>
+</div>
+<br>
 
-
+<br>
 
 
 <div>
