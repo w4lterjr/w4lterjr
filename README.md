@@ -4,7 +4,7 @@
   
   <h1 align="center">Hi, how are you? I am Walter Junior</h1>
   <p align="center"> 👀 I'm an Engineer and a Designer</p>
-  <p align="center"> I’m currently learning Backend, FrontEnd... actually 🌱,</p>
+  <p align="center"> I’m currently learning Backend, FrontEnd... actually 🌱</p>
   <p align="center"> 💞️ Take a look on my projects down below...</p>
   
 </div>
