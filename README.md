@@ -16,7 +16,7 @@
   
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=w4lterjr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Walter Junior github stats" />
   
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4lterjr&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4lterjr&layout=compact&langs_count=7&theme=gotham" alt="Walter Junior github stats" />
   
 </div>
 
