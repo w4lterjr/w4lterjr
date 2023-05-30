@@ -27,13 +27,13 @@
 ##
 
 
-<h3 align="center">Contact:</h3>
+<h3 align="left">Contact:</h3>
 
 
 
 <br>
 
-<div align="center">
+<div align="left">
 
 
   <a href="https://www.linkedin.com/in/walter-junior-62a355146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
