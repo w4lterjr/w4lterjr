@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, eu sou Walter Junior!</h1>
   <p>👨‍💻 Sou Engenheiro de Software</p>
-  <p>Atualmente, estou aprendendo Backend e Frontend. 🌱</p>
+  <p>Atualmente, estou trabalhando com Backend e Frontend. 🏢</p>
   <p>💞️ Explore meus projetos e contribuições abaixo...</p>
 </div>
 
