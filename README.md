@@ -38,7 +38,6 @@
   <a href="https://www.linkedin.com/in/walter-junior-62a355146" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <!-- Adicione outros meios de contato se desejar -->
 </div>
 
 <br />
@@ -51,12 +50,8 @@ Sou um entusiasta da tecnologia e engenheiro de software com experiência em des
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- **[Nome do Projeto 1](link-para-o-projeto)**: Uma breve descrição do projeto e suas principais funcionalidades.
-- **[Nome do Projeto 2](link-para-o-projeto)**: Outra breve descrição do projeto e o que você aprendeu ao desenvolvê-lo.
-- **[Nome do Projeto 3](link-para-o-projeto)**: Descrição do projeto, com foco nas tecnologias usadas e no impacto que teve.
+- **[News](https://github.com/w4lterjr/news)**: Uma breve descrição do projeto e suas principais funcionalidades.
+- **[My Server](https://github.com/w4lterjr/my_server)**: Outra breve descrição do projeto e o que você aprendeu ao desenvolvê-lo.
+- **[Futebol](https://github.com/w4lterjr/futebol)**: Descrição do projeto, com foco nas tecnologias usadas e no impacto que teve.
 
 Se você quiser discutir algum projeto ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
-
----
-
-Sinta-se à vontade para ajustar as descrições, adicionar mais informações sobre seus projetos, ou incluir outros detalhes pessoais que achar relevante. Se precisar de mais ajustes ou tiver outras perguntas, estou aqui para ajudar!
