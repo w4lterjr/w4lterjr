@@ -1,5 +1,8 @@
 <div align="center">
   <h1>Olá, eu sou Walter Junior!</h1>
+</div>
+
+<div align="left">
   <p>👨‍💻 Sou Engenheiro de Software</p>
   <p>Atualmente, estou trabalhando com Backend e Frontend. 🏢</p>
   <p>💞️ Explore meus projetos e contribuições abaixo...</p>
@@ -20,31 +23,13 @@
 
 <br />
 
-## Tecnologias que Utilizo
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
-  <img src="https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="40"/>
-  <img src="https://img.shields.io/badge/Python-%2324B7A8?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" height="40"/>
-  <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="40"/>
-</div>
-
-<br />
-
-## Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/walter-junior-62a355146" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-</div>
 
 <br />
 
 ## Sobre Mim
 
-Sou um entusiasta da tecnologia e engenheiro de software com experiência em desenvolvimento de aplicações web e backend. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. Além de programar, gosto de [descrever algum hobby ou interesse pessoal], o que me ajuda a manter uma abordagem criativa para a resolução de problemas.
+Sou um entusiasta da tecnologia e engenheiro de software com experiência em desenvolvimento de aplicações web e backend. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. Além de programar, gosto de assistir filmes, o que me ajuda a manter uma abordagem criativa para a resolução de problemas.
 
 ### Projetos Relevantes
 
@@ -55,3 +40,26 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **[Futebol](https://github.com/w4lterjr/futebol)**: Descrição do projeto, com foco nas tecnologias usadas e no impacto que teve.
 
 Se você quiser discutir algum projeto ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
+
+
+<div align="left">
+
+  ## Tecnologias que Utilizo
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
+  <img src="https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="40"/>
+  <img src="https://img.shields.io/badge/Python-%2324B7A8?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" height="40"/>
+  <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="40"/>
+</div>
+
+<br />
+
+<div align="left">
+
+  ## Contato
+  <a href="https://www.linkedin.com/in/w4lterjr" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+</div>
+
+
