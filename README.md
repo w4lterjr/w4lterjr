@@ -35,9 +35,9 @@ Sou um entusiasta da tecnologia e engenheiro de software com experiência em des
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- **[News](https://github.com/w4lterjr/news)**: Uma breve descrição do projeto e suas principais funcionalidades.
-- **[My Server](https://github.com/w4lterjr/my_server)**: Outra breve descrição do projeto e o que você aprendeu ao desenvolvê-lo.
-- **[Futebol](https://github.com/w4lterjr/futebol)**: Descrição do projeto, com foco nas tecnologias usadas e no impacto que teve.
+- **[News](https://github.com/w4lterjr/news)**: Um jornal com noticias, previsao do tempo e bolsa de valores que estou desenvolvendo.
+- **[My Server](https://github.com/w4lterjr/my_server)**: Um projeto de um servidor...
+- **[Futebol](https://github.com/w4lterjr/futebol)**: Um site de futebol em tempo real, com a classificaçao, etc...
 
 Se você quiser discutir algum projeto ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
 
