@@ -2,7 +2,7 @@
   <h1>Olá, eu sou Walter Junior!</h1>
 </div>
 
-<div align="left">
+<div align="center">
   <p>👨‍💻 Sou Engenheiro de Software</p>
   <p>Atualmente, estou trabalhando com Backend e Frontend. 🏢</p>
   <p>💞️ Explore meus projetos e contribuições abaixo...</p>
@@ -54,7 +54,7 @@ Se você quiser discutir algum projeto ou tem alguma dúvida, sinta-se à vontad
 
 <br />
 
-<div align="left">
+<div align="right">
 
   ## Contato
   <a href="https://www.linkedin.com/in/w4lterjr" target="_blank">
